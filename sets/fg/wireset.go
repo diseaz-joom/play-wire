@@ -1,8 +1,8 @@
 package fg
 
 import (
-	"projects/play-wire/boxes/f"
-	"projects/play-wire/boxes/g"
+	"github.com/diseaz-joom/play-wire/boxes/f"
+	"github.com/diseaz-joom/play-wire/boxes/g"
 
 	"github.com/google/wire"
 )

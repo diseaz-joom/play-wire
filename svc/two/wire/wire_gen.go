@@ -6,10 +6,10 @@
 package wire
 
 import (
-	"projects/play-wire/boxes/b"
-	"projects/play-wire/boxes/c"
-	"projects/play-wire/boxes/e"
-	"projects/play-wire/boxes/g"
+	"github.com/diseaz-joom/play-wire/boxes/b"
+	"github.com/diseaz-joom/play-wire/boxes/c"
+	"github.com/diseaz-joom/play-wire/boxes/e"
+	"github.com/diseaz-joom/play-wire/boxes/g"
 )
 
 // Injectors from wire.go:

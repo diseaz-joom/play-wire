@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"projects/play-wire/svc/one/wire"
+	"github.com/diseaz-joom/play-wire/svc/one/wire"
 )
 
 func main() {

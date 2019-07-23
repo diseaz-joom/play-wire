@@ -6,14 +6,14 @@
 package wire
 
 import (
-	"projects/play-wire/boxes/a"
-	"projects/play-wire/boxes/b"
-	"projects/play-wire/boxes/c"
-	"projects/play-wire/boxes/d"
-	"projects/play-wire/boxes/e"
-	"projects/play-wire/boxes/f"
-	"projects/play-wire/boxes/g"
-	"projects/play-wire/svc/one"
+	"github.com/diseaz-joom/play-wire/boxes/a"
+	"github.com/diseaz-joom/play-wire/boxes/b"
+	"github.com/diseaz-joom/play-wire/boxes/c"
+	"github.com/diseaz-joom/play-wire/boxes/d"
+	"github.com/diseaz-joom/play-wire/boxes/e"
+	"github.com/diseaz-joom/play-wire/boxes/f"
+	"github.com/diseaz-joom/play-wire/boxes/g"
+	"github.com/diseaz-joom/play-wire/svc/one"
 )
 
 // Injectors from wire.go:

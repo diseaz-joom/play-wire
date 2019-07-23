@@ -3,10 +3,10 @@
 package wire
 
 import (
-	"projects/play-wire/sets/abc"
-	"projects/play-wire/sets/de"
-	"projects/play-wire/sets/fg"
-	"projects/play-wire/svc/one"
+	"github.com/diseaz-joom/play-wire/sets/abc"
+	"github.com/diseaz-joom/play-wire/sets/de"
+	"github.com/diseaz-joom/play-wire/sets/fg"
+	"github.com/diseaz-joom/play-wire/svc/one"
 
 	"github.com/google/wire"
 )

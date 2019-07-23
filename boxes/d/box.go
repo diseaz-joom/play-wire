@@ -2,9 +2,9 @@ package d
 
 import (
 	"fmt"
-	"projects/play-wire/boxes/a"
-	"projects/play-wire/boxes/b"
-	"projects/play-wire/common"
+	"github.com/diseaz-joom/play-wire/boxes/a"
+	"github.com/diseaz-joom/play-wire/boxes/b"
+	"github.com/diseaz-joom/play-wire/common"
 )
 
 type Box struct {

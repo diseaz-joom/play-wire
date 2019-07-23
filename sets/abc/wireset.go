@@ -1,9 +1,9 @@
 package abc
 
 import (
-	"projects/play-wire/boxes/a"
-	"projects/play-wire/boxes/b"
-	"projects/play-wire/boxes/c"
+	"github.com/diseaz-joom/play-wire/boxes/a"
+	"github.com/diseaz-joom/play-wire/boxes/b"
+	"github.com/diseaz-joom/play-wire/boxes/c"
 
 	"github.com/google/wire"
 )

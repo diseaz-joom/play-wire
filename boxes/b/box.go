@@ -2,7 +2,7 @@ package b
 
 import (
 	"fmt"
-	"projects/play-wire/common"
+	"github.com/diseaz-joom/play-wire/common"
 )
 
 type Box struct {

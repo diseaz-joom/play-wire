@@ -1,6 +1,6 @@
 package c
 
-import "projects/play-wire/common"
+import "github.com/diseaz-joom/play-wire/common"
 
 type Box struct {
 	common.Printer
